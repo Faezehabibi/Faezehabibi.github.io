@@ -2483,7 +2483,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #FAAFBA;
+		background: #34495E !important;
 		color: #ffffff;
 		height: 100%;
 		overflow-y: auto;
