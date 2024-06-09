@@ -1584,22 +1584,22 @@
 
 
 	#date_strong {
-		color: #673dff;
+		color: #B6E9DC;
 		font-weight: 700;
 	}
 
 	#date_strong_1 {
-		color: #673dff;
+		color: #B6E9DC;
 		font-weight: 700;
 	}
 
 	#date_strong_2 {
-		color: #673dff;
+		color: #B6E9DC;
 		font-weight: 700;
 	}
 
 	#date_strong_3 {
-		color: 	#673dff;
+		color: 	#B6E9DC;
 		font-weight: 700;
 	}
 
@@ -1612,7 +1612,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #673dff;
+		color: #B6E9DC;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -2511,7 +2511,7 @@
 		}
 
 			#header a:hover {
-				color: #673dff !important;
+				color: #B6E9DC !important;
 			}
 
 		#header > header {
@@ -2591,7 +2591,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #673dff !important;
+							color: #B6E9DC !important;
 						}
 
 					#header > nav ul li:first-child {
